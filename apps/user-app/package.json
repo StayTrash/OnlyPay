@@ -31,5 +31,10 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3"
-  }
+  },
+  "description": "First, run the development server:",
+  "main": ".eslintrc.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
